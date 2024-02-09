@@ -1,4 +1,5 @@
 # 学生解放周刊
+## 牢记官网：https://redchnbutler.github.io/stulib-wkl/
 
 ## 精彩回顾
 
